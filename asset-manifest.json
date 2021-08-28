@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-myblog/static/css/main.8a04dca7.chunk.css",
+    "main.js": "/React-myblog/static/js/main.073eacbc.chunk.js",
+    "main.js.map": "/React-myblog/static/js/main.073eacbc.chunk.js.map",
+    "runtime-main.js": "/React-myblog/static/js/runtime-main.59d4ac99.js",
+    "runtime-main.js.map": "/React-myblog/static/js/runtime-main.59d4ac99.js.map",
+    "static/js/2.b2c445cd.chunk.js": "/React-myblog/static/js/2.b2c445cd.chunk.js",
+    "static/js/2.b2c445cd.chunk.js.map": "/React-myblog/static/js/2.b2c445cd.chunk.js.map",
+    "index.html": "/React-myblog/index.html",
+    "static/css/main.8a04dca7.chunk.css.map": "/React-myblog/static/css/main.8a04dca7.chunk.css.map",
+    "static/js/2.b2c445cd.chunk.js.LICENSE.txt": "/React-myblog/static/js/2.b2c445cd.chunk.js.LICENSE.txt",
+    "static/media/pexels-kate-gundareva-8548511.8ca5be24.jpg": "/React-myblog/static/media/pexels-kate-gundareva-8548511.8ca5be24.jpg",
+    "static/media/pexels-photo-2132008.b6f6cb42.jpeg": "/React-myblog/static/media/pexels-photo-2132008.b6f6cb42.jpeg",
+    "static/media/pexels-photo-2166695.36265b25.jpeg": "/React-myblog/static/media/pexels-photo-2166695.36265b25.jpeg",
+    "static/media/pexels-photo-268533.2aa48d27.jpeg": "/React-myblog/static/media/pexels-photo-268533.2aa48d27.jpeg",
+    "static/media/pexels-photo-443446.df9f045c.jpeg": "/React-myblog/static/media/pexels-photo-443446.df9f045c.jpeg",
+    "static/media/pexels-photo-747964.fba47ca8.jpeg": "/React-myblog/static/media/pexels-photo-747964.fba47ca8.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59d4ac99.js",
+    "static/js/2.b2c445cd.chunk.js",
+    "static/css/main.8a04dca7.chunk.css",
+    "static/js/main.073eacbc.chunk.js"
+  ]
+}
