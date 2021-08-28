@@ -1,0 +1,7 @@
+.posts {
+  flex: 9;
+  display: flex;
+  /* means if this children bigger than parent line its gonna be moved to the next row */
+  flex-wrap: wrap;
+  margin-top: 30px;
+}

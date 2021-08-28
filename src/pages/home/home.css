@@ -1,0 +1,4 @@
+.home {
+    /* to make posts and sidebar horizontal */
+    display: flex;
+}
